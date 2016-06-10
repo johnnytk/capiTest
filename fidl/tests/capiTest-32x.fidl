@@ -1,0 +1,104 @@
+package org.test 
+    interface capiTest2 {
+        version {
+            major 1 minor 0
+    }
+
+    method setAge1 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge2 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge3 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge4 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge5 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge6 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge7 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge8 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge9 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge10 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge11 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge12 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge13 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge14 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge15 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge16 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge17 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge18 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge19 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge20 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge21 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge22 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge23 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge24 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge25 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge26 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge27 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge28 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge29 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge30 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge31 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge32 { in { String name UInt32 age } out { UInt32 newAge } }
+    attribute UInt32 currentAge1
+    attribute UInt32 currentAge2
+    attribute UInt32 currentAge3
+    attribute UInt32 currentAge4
+    attribute UInt32 currentAge5
+    attribute UInt32 currentAge6
+    attribute UInt32 currentAge7
+    attribute UInt32 currentAge8
+    attribute UInt32 currentAge9
+    attribute UInt32 currentAge10
+    attribute UInt32 currentAge11
+    attribute UInt32 currentAge12
+    attribute UInt32 currentAge13
+    attribute UInt32 currentAge14
+    attribute UInt32 currentAge15
+    attribute UInt32 currentAge16
+    attribute UInt32 currentAge17
+    attribute UInt32 currentAge18
+    attribute UInt32 currentAge19
+    attribute UInt32 currentAge20
+    attribute UInt32 currentAge21
+    attribute UInt32 currentAge22
+    attribute UInt32 currentAge23
+    attribute UInt32 currentAge24
+    attribute UInt32 currentAge25
+    attribute UInt32 currentAge26
+    attribute UInt32 currentAge27
+    attribute UInt32 currentAge28
+    attribute UInt32 currentAge29
+    attribute UInt32 currentAge30
+    attribute UInt32 currentAge31
+    attribute UInt32 currentAge32
+    broadcast newAge1 { out { UInt32 age } }
+    broadcast newAge2 { out { UInt32 age } }
+    broadcast newAge3 { out { UInt32 age } }
+    broadcast newAge4 { out { UInt32 age } }
+    broadcast newAge5 { out { UInt32 age } }
+    broadcast newAge6 { out { UInt32 age } }
+    broadcast newAge7 { out { UInt32 age } }
+    broadcast newAge8 { out { UInt32 age } }
+    broadcast newAge9 { out { UInt32 age } }
+    broadcast newAge10 { out { UInt32 age } }
+    broadcast newAge11 { out { UInt32 age } }
+    broadcast newAge12 { out { UInt32 age } }
+    broadcast newAge13 { out { UInt32 age } }
+    broadcast newAge14 { out { UInt32 age } }
+    broadcast newAge15 { out { UInt32 age } }
+    broadcast newAge16 { out { UInt32 age } }
+    broadcast newAge17 { out { UInt32 age } }
+    broadcast newAge18 { out { UInt32 age } }
+    broadcast newAge19 { out { UInt32 age } }
+    broadcast newAge20 { out { UInt32 age } }
+    broadcast newAge21 { out { UInt32 age } }
+    broadcast newAge22 { out { UInt32 age } }
+    broadcast newAge23 { out { UInt32 age } }
+    broadcast newAge24 { out { UInt32 age } }
+    broadcast newAge25 { out { UInt32 age } }
+    broadcast newAge26 { out { UInt32 age } }
+    broadcast newAge27 { out { UInt32 age } }
+    broadcast newAge28 { out { UInt32 age } }
+    broadcast newAge29 { out { UInt32 age } }
+    broadcast newAge30 { out { UInt32 age } }
+    broadcast newAge31 { out { UInt32 age } }
+    broadcast newAge32 { out { UInt32 age } }
+}
+

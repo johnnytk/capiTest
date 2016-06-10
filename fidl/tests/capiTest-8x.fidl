@@ -1,0 +1,32 @@
+package org.test 
+    interface capiTest {
+        version {
+            major 1 minor 0
+    }
+
+    method setAge1 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge2 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge3 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge4 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge5 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge6 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge7 { in { String name UInt32 age } out { UInt32 newAge } }
+    method setAge8 { in { String name UInt32 age } out { UInt32 newAge } }
+    attribute UInt32 currentAge1
+    attribute UInt32 currentAge2
+    attribute UInt32 currentAge3
+    attribute UInt32 currentAge4
+    attribute UInt32 currentAge5
+    attribute UInt32 currentAge6
+    attribute UInt32 currentAge7
+    attribute UInt32 currentAge8
+    broadcast newAge1 { out { UInt32 age } }
+    broadcast newAge2 { out { UInt32 age } }
+    broadcast newAge3 { out { UInt32 age } }
+    broadcast newAge4 { out { UInt32 age } }
+    broadcast newAge5 { out { UInt32 age } }
+    broadcast newAge6 { out { UInt32 age } }
+    broadcast newAge7 { out { UInt32 age } }
+    broadcast newAge8 { out { UInt32 age } }
+}
+
